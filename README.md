@@ -1,1 +1,3 @@
 # Newbee-Notes
+## Tech
+## Team
